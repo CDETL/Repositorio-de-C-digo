@@ -1,2 +1,2 @@
-# Repositorio-de-C-digo
+# Repositorio-de-Codigo
 Código de análisis de datos
